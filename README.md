@@ -12,6 +12,8 @@ A ginger cat with white paws and chest is sitting on a snowy field, facing the c
 
 翻译为中文：一只 ginger 猫，有白毛和胸口，正坐在一个雪地里，面朝相机，头部稍微向左倾斜。猫的毛色是白色和橙色混合的，眼睛是蓝色。背景上，有雪地，有远处的树木，太阳正在晒出暖暖的阳光。
 
+测试报告：https://mp.weixin.qq.com/s?__biz=MzkwNzY3NzIwOQ==&mid=2247483701&idx=1&sn=2629cf66660ff64f1f92700a44427669&chksm=c0d4da43f7a3535542e40bd7d73312648b7fad55581fcde711d212e1c0e8e0a6688fac15f411&token=1292581212&lang=zh_CN#rd
+
 ## 工作流举例
 
 SDXL模型下载地址(欢迎点赞点关注): https://www.liblib.art/modelinfo/5913fb0765ce4a4ba210cb1c898df276
