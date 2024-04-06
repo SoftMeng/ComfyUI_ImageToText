@@ -22,3 +22,19 @@ SDXL模型下载地址(欢迎点赞点关注): https://www.liblib.art/modelinfo/
 ## 使用了的模型
 
 https://huggingface.co/vikhyatk/moondream2
+
+## For More
+
+### ComfyUI
+1. 将中文翻译英文：https://github.com/SoftMeng/ComfyUI-FanYi
+2. 从图片提取自然语言：https://github.com/SoftMeng/ComfyUI_ImageToText
+3. 随机生成提示词：https://github.com/SoftMeng/ComfyUI-Prompt
+4. 通过HTML模版制作AI海报：https://github.com/SoftMeng/ComfyUI_Mexx_Poster
+5. 通过图片模版制作AI海报：https://github.com/SoftMeng/ComfyUI_Mexx_Image_Mask
+6. Java工程调用ComfyUI生成AI图片（含全自动图片馆）：https://github.com/SoftMeng/comfy-flow-api
+### Stable Diffusion WebUI
+1. 随机生成提示词：https://github.com/SoftMeng/stable-diffusion-prompt-pai
+### Fooocus
+1. 汉化：https://github.com/SoftMeng/Fooocus-zh
+### 其他
+2. 视频会议：https://github.com/SoftMeng/vue-webrtc
