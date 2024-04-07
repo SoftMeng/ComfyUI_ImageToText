@@ -4,7 +4,7 @@
 
 1. 这是ComfyUI的节点，可以在ComfyUI中使用
 2. 功能是将图片以自然语言描述出来.
-3. 提供了按照文件夹批量处理图片的脚本：[BatchImageToText.py](BatchImageToText.py)
+3. 提供了按照文件夹批量处理图片的脚本：[BatchImageToText.py](BatchImageToText.py)，打标效果评测：https://mp.weixin.qq.com/s/8R_mPVmYyw4NX5zlaMCflw
 
 ## 使用图例
 
