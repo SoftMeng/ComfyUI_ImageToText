@@ -1,0 +1,15 @@
+[project]
+name = "comfyui_imagetotext"
+description = "Nodes: ComfyUI_ImageToText"
+version = "1.0.0"
+license = "LICENSE"
+dependencies = ["transformers", "timm", "einops"]
+
+[project.urls]
+Repository = "https://github.com/SoftMeng/ComfyUI_ImageToText"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI_ImageToText"
+Icon = ""
